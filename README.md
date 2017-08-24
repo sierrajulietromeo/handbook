@@ -1,5 +1,5 @@
 # handbook
-A WIP handbook for Ada teachers and students.
+A WIP (work in progress) handbook for Ada teachers and students.
 
 ## Contents
 - [JavaScript Coding Style](javascript-coding-style.md)
@@ -9,3 +9,5 @@ A WIP handbook for Ada teachers and students.
 
 ### For Teachers
 - [Jupyter Notebook Assignment Workflow](teacher-notebook-assignment-workflow.md)
+
+
